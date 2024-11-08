@@ -1,0 +1,54 @@
+[
+    {
+        
+        "name":"C Programming",
+        "author":"Dennis Richie",
+        "category":"CSE",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/719flxA3p5L._SY466_.jpg"
+    },
+    {
+        
+        "name":"C Programming",
+        "author":"Reema Thareja",
+        "category":"CSE",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/71ap8-T20LL._SY466_.jpg"
+    },
+    {
+        
+        "name":"C Programming",
+        "author":"Reema Thareja",
+        "category":"CSE",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/7186IYEjS+L._SY466_.jpg"
+    },
+    {
+        
+        "name":"Relativity",
+        "author":"Albert Einstein",
+        "category":"PHYSICS",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/51CF4m7T8fL._SY445_SX342_.jpg"
+    },
+    {
+        
+        "name":"Quantum Physics",
+        "author":"Hugh D. Young",
+        "category":"PHYSICS",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/51NxtiLUSPL._SX342_SY445_.jpg"
+    },
+    {
+        
+        "name":"Seven Brief Lessons on Physics",
+        "author":"Carlo Rovelli",
+        "category":"PHYSICS",
+        "title":"The book starts with an introduction to C programming and then delves into an in-depth analysis of various constructs of C. ",
+        "image":"https://m.media-amazon.com/images/I/81Iz11keeTL._SY466_.jpg"
+    }
+
+
+
+    
+]
